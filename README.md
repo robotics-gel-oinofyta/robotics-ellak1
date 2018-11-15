@@ -30,7 +30,7 @@
 
 Το Wemos D1 ( [https://wiki.wemos.cc/products:d1:d1](https://wiki.wemos.cc/products:d1:d1) ) είναι συμβατό με το Arduino Uno και διαθέτει:
 
-- .WiFi (ESP8266EX)
+- WiFi (ESP8266EX)
 - 11 ψηφιακές εισόδους / εξόδους,
 - 1 αναλογική είσοδο (3.2Vmax)
 - σύνδεση MicroUSB
