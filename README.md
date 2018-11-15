@@ -31,11 +31,11 @@
 Το Wemos D1 ( [https://wiki.wemos.cc/products:d1:d1](https://wiki.wemos.cc/products:d1:d1) ) είναι συμβατό με το Arduino Uno και διαθέτει:
 
 - .WiFi (ESP8266EX)
-- .11 ψηφιακές εισόδους / εξόδους,
-- .1 αναλογική είσοδο (3.2Vmax)
-- .σύνδεση MicroUSB
-- .1MBFlash
-- .Power jack, 9-24V
+- 11 ψηφιακές εισόδους / εξόδους,
+- 1 αναλογική είσοδο (3.2Vmax)
+- σύνδεση MicroUSB
+- 1MBFlash
+- Power jack, 9-24V
 
 Η οδήγηση των κινητήρων γίνεται με την χρήση του _L293D Motor Driver Shield_ ( βλέπε [https://playground.arduino.cc/Main/AdafruitMotorShield](https://playground.arduino.cc/Main/AdafruitMotorShield)  και  [http://wiki.sunfounder.cc/index.php?title=L293D\_Motor\_Driver\_Shield](http://wiki.sunfounder.cc/index.php?title=L293D_Motor_Driver_Shield)για την πλήρη περιγραφή και το κύκλωμα του συγκεκριμένου shield ). Toshield περιέχει δύο οδηγούς κινητήρα L293D και έναν shiftregister 74HC595. Το _Motor Shield_ είναι ικανό να οδηγήσει 2 κινητήρες.
 
